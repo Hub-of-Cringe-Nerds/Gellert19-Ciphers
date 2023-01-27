@@ -2,9 +2,9 @@
 
 const string FILE = @"C:\Users\golde\Downloads\Plain.txt";
 
-steamreader sr = new streamreader(FILE);
+streamreader sr = new streamreader(FILE);
 
-var data = list<string>();
+var data = List<string>();
 
 int[] tally = new int[26];
 
