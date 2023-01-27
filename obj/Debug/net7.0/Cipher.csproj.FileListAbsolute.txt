@@ -1,0 +1,5 @@
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.csproj.AssemblyReference.cache
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.AssemblyInfoInputs.cache
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.AssemblyInfo.cs
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.csproj.CoreCompileInputs.cache

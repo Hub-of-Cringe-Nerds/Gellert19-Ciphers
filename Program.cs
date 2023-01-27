@@ -2,7 +2,7 @@
 
 const string FILE = @"C:\Users\golde\Downloads\Plain.txt";
 
-sr = new streamreader(FILE);
+steamreader sr = new streamreader(FILE);
 
 var data = list<string>();
 
