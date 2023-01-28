@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.IO.StreamReader;
 
 class Cipher
 {
@@ -8,7 +7,7 @@ class Cipher
     {
         const string FILE = @"C:\Users\golde\Downloads\Plain.txt";
 
-        streamreader sr = new streamreader(FILE);
+        System.IO.StreamReader sr = new System.IO.StreamReader(FILE);
 
         var data = List<string>();
 
@@ -16,9 +15,9 @@ class Cipher
 
 
 
-        while (!sr.endofstream)
+        while (!sr.EndOfStream)
         {
-            data.Add(sr.ReadLine());
+            data.Add(sr.ReadLine()!);
 
             foreach (var line in data)
             {
