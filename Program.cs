@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 
 const string FILE = @"C:\Users\golde\Downloads\Plain.txt";
 
