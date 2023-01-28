@@ -9,7 +9,7 @@ class Cipher
 
         System.IO.StreamReader sr = new System.IO.StreamReader(FILE);
 
-        var data = List<string>();
+        var data = new List<string>();
 
         int[] tally = new int[26];
 
