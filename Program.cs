@@ -1,25 +1,32 @@
 ﻿using System;
 using System.IO;
+using System.IO.StreamReader;
 
-const string FILE = @"C:\Users\golde\Downloads\Plain.txt";
-
-streamreader sr = new streamreader(FILE);
-
-var data = List<string>();
-
-int[] tally = new int[26];
-
-
-
-while (!sr.endofstream)
+class Cipher
 {
-    data.Add(sr.ReadLine());
-
-    foreach(var line in data)
+    static void Main()
     {
-        foreach (var ch in line)
+        const string FILE = @"C:\Users\golde\Downloads\Plain.txt";
+
+        streamreader sr = new streamreader(FILE);
+
+        var data = List<string>();
+
+        int[] tally = new int[26];
+
+
+
+        while (!sr.endofstream)
         {
-            tally[(int)ch  - 65]++;
+            data.Add(sr.ReadLine());
+
+            foreach (var line in data)
+            {
+                foreach (var ch in line)
+                {
+                    tally[(int)ch - 65]++;
+                }
+            }
         }
     }
 }
