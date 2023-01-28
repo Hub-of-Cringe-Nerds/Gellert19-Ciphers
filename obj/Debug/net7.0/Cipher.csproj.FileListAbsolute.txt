@@ -3,3 +3,13 @@ C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Ciphe
 C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.AssemblyInfoInputs.cache
 C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.AssemblyInfo.cs
 C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.csproj.CoreCompileInputs.cache
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\bin\Debug\net7.0\Cipher.exe
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\bin\Debug\net7.0\Cipher.deps.json
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\bin\Debug\net7.0\Cipher.runtimeconfig.json
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\bin\Debug\net7.0\Cipher.dll
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\bin\Debug\net7.0\Cipher.pdb
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.dll
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\refint\Cipher.dll
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.pdb
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.genruntimeconfig.cache
+C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\ref\Cipher.dll

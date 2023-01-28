@@ -13,8 +13,6 @@ class Cipher
 
         int[] tally = new int[26];
 
-
-
         while (!sr.EndOfStream)
         {
             data.Add(sr.ReadLine()!);
