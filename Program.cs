@@ -5,7 +5,7 @@ class Cipher
 {
     static void Main()
     {
-        const string FILE = @"C:\Users\golde\Downloads\Encoded.txt";
+        const string FILE = @"C:\Users\golde\Downloads\Plain.txt";
 
         System.IO.StreamReader sr = new System.IO.StreamReader(FILE);
 
@@ -21,16 +21,21 @@ class Cipher
             {
                 foreach (var ch in line)
                 {
-                    tally[(int)ch - 65]++;
-
-                    for(int i = 0; i < 26; i++)
+                    if ((int)ch <= (int)'Z' && (int)ch >= (int)'A')
                     {
-                        Console.Write(tally[i] + ",");
+                        tally[(int)ch - 65]++;
                     }
-                    Console.WriteLine();
                 }
             }
         }
+
+        Console.WriteLine("A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z");
+
+        for (int i = 0; i < 26; i++)
+        {
+            Console.Write(tally[i] + ",");
+        }
+
         Console.ReadLine();
     }
 }
