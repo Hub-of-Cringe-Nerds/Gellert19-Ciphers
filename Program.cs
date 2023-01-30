@@ -5,7 +5,7 @@ class Cipher
 {
     static void Main()
     {
-        const string FILE = @"C:\Users\golde\Downloads\Plain.txt";
+        const string FILE = @"C:\Users\golde\Downloads\Encoded.txt";
 
         System.IO.StreamReader sr = new System.IO.StreamReader(FILE);
 
@@ -22,8 +22,15 @@ class Cipher
                 foreach (var ch in line)
                 {
                     tally[(int)ch - 65]++;
+
+                    for(int i = 0; i < 26; i++)
+                    {
+                        Console.Write(tally[i] + ",");
+                    }
+                    Console.WriteLine();
                 }
             }
         }
+        Console.ReadLine();
     }
 }
