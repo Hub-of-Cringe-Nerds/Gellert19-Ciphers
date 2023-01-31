@@ -6,8 +6,9 @@ class Cipher
     static void Main()
     {
         const string FILE = @"C:\Users\golde\Downloads\Plain.txt";
+        const string SCHL = @"C:\Users\OliverDixon\Downloads\Plain.txt";
 
-        System.IO.StreamReader sr = new System.IO.StreamReader(FILE);
+        System.IO.StreamReader sr = new System.IO.StreamReader(SCHL);
 
         var data = new List<string>();
 
@@ -21,7 +22,7 @@ class Cipher
             {
                 foreach (var ch in line)
                 {
-                    if ((int)ch <= (int)'Z' && (int)ch >= (int)'A')
+                    if (((int)ch) <= ((int)'Z') && ((int)ch) >= ((int)'A'))
                     {
                         tally[(int)ch - 65]++;
                     }
