@@ -3,7 +3,7 @@ using System.IO;
 
 class Cipher
 {
-    static void Ciph()
+    static void Main()
     {
         const string FILE = @"C:\Users\golde\Downloads\Plain.txt";
         const string SCHL = @"C:\Users\OliverDixon\Downloads\Plain.txt";
