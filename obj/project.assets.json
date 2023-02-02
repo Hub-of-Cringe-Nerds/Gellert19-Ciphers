@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\golde\\.nuget\\packages\\": {}
+    "C:\\Users\\OliverDixon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\golde\\OneDrive\\Desktop\\Coding\\VS Projects\\Cipher\\Cipher.csproj",
+      "projectUniqueName": "C:\\Users\\OliverDixon\\Documents\\Code\\Ciphers\\Cipher.csproj",
       "projectName": "Cipher",
-      "projectPath": "C:\\Users\\golde\\OneDrive\\Desktop\\Coding\\VS Projects\\Cipher\\Cipher.csproj",
-      "packagesPath": "C:\\Users\\golde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\golde\\OneDrive\\Desktop\\Coding\\VS Projects\\Cipher\\obj\\",
+      "projectPath": "C:\\Users\\OliverDixon\\Documents\\Code\\Ciphers\\Cipher.csproj",
+      "packagesPath": "C:\\Users\\OliverDixon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\OliverDixon\\Documents\\Code\\Ciphers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\golde\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\OliverDixon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

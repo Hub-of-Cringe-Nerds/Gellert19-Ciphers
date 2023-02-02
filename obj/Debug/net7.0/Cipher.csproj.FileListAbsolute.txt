@@ -13,3 +13,8 @@ C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\refin
 C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.pdb
 C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\Cipher.genruntimeconfig.cache
 C:\Users\golde\OneDrive\Desktop\Coding\VS Projects\Cipher\obj\Debug\net7.0\ref\Cipher.dll
+C:\Users\OliverDixon\Documents\Code\Ciphers\obj\Debug\net7.0\Cipher.csproj.AssemblyReference.cache
+C:\Users\OliverDixon\Documents\Code\Ciphers\obj\Debug\net7.0\Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OliverDixon\Documents\Code\Ciphers\obj\Debug\net7.0\Cipher.AssemblyInfoInputs.cache
+C:\Users\OliverDixon\Documents\Code\Ciphers\obj\Debug\net7.0\Cipher.AssemblyInfo.cs
+C:\Users\OliverDixon\Documents\Code\Ciphers\obj\Debug\net7.0\Cipher.csproj.CoreCompileInputs.cache
